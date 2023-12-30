@@ -26,8 +26,8 @@ End the program.
 ### PROGRAM:
 ```
 # python program for getting the word count from a text
-# DEVELOPED BY : Mohamed Nadheem N
-# REGESTERED NO: 212223240091
+# DEVELOPED BY : Haarish V
+# REGESTERED NO: 212223230067
 num_words=0
 with open("word_count.txt",'r') as f1:
     for i in f1:
@@ -36,7 +36,7 @@ with open("word_count.txt",'r') as f1:
     print("Number of words in the file = {}".format(num_words)) 
 ```
 ### OUTPUT:
-![OUTPUT](/Output%20Dheem.jpg)
+![OUTPUT](/output.jpg)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
